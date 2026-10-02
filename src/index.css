@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+html,
+body {
+  @apply bg-slate-200 text-slate-900 antialiased;
+  font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
